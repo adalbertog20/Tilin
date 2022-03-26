@@ -1,4 +1,4 @@
-* Tilin Window Manager
+* Mine Window Manager
 Yes very creative name, i do not expect this to be a very big project
 im doing this just for fun, this windog manager is not even Tiling yet
 im workin on it, i thought using the X11 libraries was difficult but,
