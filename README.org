@@ -1,7 +1,2 @@
 * Mine Window Manager
-Yes very creative name, i do not expect this to be a very big project
-im doing this just for fun, this windog manager is not even Tiling yet
-im workin on it, i thought using the X11 libraries was difficult but,
-looking some examples it is being kinda fun.
-* Do Not Use This Yet!
-may not work. yes very minimal.
+This window manager just helps mi to start emacs at boot and manage windows in a emacs way
